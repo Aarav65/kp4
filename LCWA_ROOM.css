@@ -1,0 +1,30 @@
+body
+{
+background: url(vector-liquid-color-background-design.png);
+}
+
+
+#logout
+{
+	font-size: 20px; 
+	float: right;
+}
+
+
+#output
+{
+	padding: 10px; 
+	width:80%;background: rgba(255,255,255,0.8);
+	border-radius: 15px;
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+.color_white
+{
+	color: white
+}
